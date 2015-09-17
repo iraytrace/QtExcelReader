@@ -1,0 +1,858 @@
+excel has 241:
+    objectName:QString(void)
+    ActiveCell:IDispatch*
+    ActiveChart:IDispatch*
+    ActiveDialog:IDispatch*
+    ActiveEncryptionSession:int(-1)
+    ActiveMenuBar:IDispatch*
+    ActivePrinter:QString(Send To OneNote 2013 on nul:)
+    ActiveProtectedViewWindow:IDispatch*
+    ActiveSheet:IDispatch*
+    ActiveWindow:IDispatch*
+    ActiveWorkbook:IDispatch*
+    AddIns:IDispatch*
+    AddIns2:IDispatch*
+    AlertBeforeOverwriting:bool[true]
+    AltStartupPath:QString()
+    AlwaysUseClearType:bool[false]
+    AnswerWizard:IDispatch*
+    Application:IDispatch*
+    ArbitraryXMLSupportAvailable:bool[true]
+    AskToUpdateLinks:bool[true]
+    Assistance:IDispatch*
+    Assistant:IDispatch*
+    AutoCorrect:IDispatch*
+    AutoFormatAsYouTypeReplaceHyperlinks:bool[true]
+    AutoPercentEntry:bool[true]
+    AutoRecover:IDispatch*
+    AutomationSecurity:Office::MsoAutomationSecurity
+    Build:int(4753)
+    COMAddIns:IDispatch*
+    CalculateBeforeSave:bool[false]
+    Calculation:XlCalculation(0)
+    CalculationInterruptKey:XlCalculationInterruptKey(2)
+    CalculationState:XlCalculationState(0)
+    CalculationVersion:int(152511)
+    Caller:QVariant varies<null>
+    CanPlaySounds:bool[true]
+    CanRecordSounds:bool[true]
+    Caption:QString(Excel)
+    CellDragAndDrop:bool[true]
+    Cells:IDispatch*
+    ChartDataPointTrack:bool[true]
+    Charts:IDispatch*
+    ClipboardFormats:QVariant varies<>
+    ClusterConnector:QString()
+    ColorButtons:bool[true]
+    Columns:IDispatch*
+    CommandBars:IDispatch*
+    CommandUnderlines:XlCommandUnderlines(-4105)
+    ConstrainNumeric:bool[false]
+    ControlCharacters:bool[false]
+    CopyObjectsWithCells:bool[true]
+    Creator:XlCreator(1480803660)
+    Cursor:XlMousePointer(-4143)
+    CursorMovement:int(1)
+    CustomListCount:int(4)
+    CutCopyMode:XlCutCopyMode(0)
+    DDEAppReturnCode:int(0)
+    DataEntryMode:int(-4146)
+    DecimalSeparator:QString(.)
+    DefaultFilePath:QString(C:\Users\Lee\Documents)
+    DefaultSaveFormat:XlFileFormat(51)
+    DefaultSheetDirection:int(-5003)
+    DefaultWebOptions:IDispatch*
+    DeferAsyncQueries:bool[false]
+    DialogSheets:IDispatch*
+    Dialogs:IDispatch*
+    DisplayAlerts:bool[true]
+    DisplayClipboardWindow:bool[false]
+    DisplayCommentIndicator:XlCommentDisplayMode(-1)
+    DisplayDocumentActionTaskPane:bool[false]
+    DisplayDocumentInformationPanel:bool[false]
+    DisplayExcel4Menus:bool[false]
+    DisplayFormulaAutoComplete:bool[true]
+    DisplayFormulaBar:bool[true]
+    DisplayFullScreen:bool[false]
+    DisplayFunctionToolTips:bool[true]
+    DisplayInfoWindow:bool[false]
+    DisplayInsertOptions:bool[true]
+    DisplayNoteIndicator:bool[true]
+    DisplayPasteOptions:bool[true]
+    DisplayRecentFiles:bool[true]
+    DisplayScrollBars:bool[true]
+    DisplayStatusBar:bool[true]
+    Dummy101:IDispatch*
+    Dummy22:bool[false]
+    Dummy23:bool[false]
+    EditDirectlyInCell:bool[true]
+    EnableAnimations:bool[true]
+    EnableAutoComplete:bool[true]
+    EnableCancelKey:XlEnableCancelKey(1)
+    EnableCheckFileExtensions:bool[true]
+    EnableEvents:bool[true]
+    EnableLargeOperationAlert:bool[true]
+    EnableLivePreview:bool[true]
+    EnableMacroAnimations:bool[false]
+    EnableSound:bool[false]
+    EnableTipWizard:bool[false]
+    ErrorCheckingOptions:IDispatch*
+    Excel4IntlMacroSheets:IDispatch*
+    Excel4MacroSheets:IDispatch*
+    ExtendList:bool[true]
+    FeatureInstall:Office::MsoFeatureInstall
+    FileConverters:QVariant varies<null>
+    FileExportConverters:IDispatch*
+    FileFind:IDispatch*
+    FileSearch:IDispatch*
+    FileValidation:Office::MsoFileValidationMode
+    FileValidationPivot:XlFileValidationPivotMode(0)
+    FindFormat:IDispatch*
+    FixedDecimal:bool[false]
+    FixedDecimalPlaces:int(2)
+    FlashFill:bool[true]
+    FlashFillMode:bool[false]
+    FormulaBarHeight:int(1)
+    GenerateGetPivotData:bool[false]
+    GenerateTableRefs:XlGenerateTableRefs(1)
+    Height:double
+    HighQualityModeForGraphics:bool[false]
+    Hinstance:int(10551296)
+    HinstancePtr:QVariant varies<10551296>
+    Hwnd:int(853954)
+    IgnoreRemoteRequests:bool[false]
+    Interactive:bool[true]
+    International:QVariant varies<>
+    IsSandboxed:bool[false]
+    Iteration:bool[false]
+    LanguageSettings:IDispatch*
+    LargeButtons:bool[false]
+    LargeOperationCellThousandCount:int(33554)
+    Left:double
+    LibraryPath:QString(C:\Program Files\Microsoft Office 15\Root\Office15\LIBRARY)
+    MailSession:QVariant varies<null>
+    MailSystem:XlMailSystem(1)
+    MapPaperSize:bool[true]
+    MathCoprocessorAvailable:bool[true]
+    MaxChange:double
+    MaxIterations:int(0)
+    MeasurementUnit:int(0)
+    MemoryFree:int(0)
+    MemoryTotal:int(0)
+    MemoryUsed:int(0)
+    MenuBars:IDispatch*
+    MergeInstances:bool[true]
+    Modules:IDispatch*
+    MouseAvailable:bool[true]
+    MoveAfterReturn:bool[true]
+    MoveAfterReturnDirection:XlDirection(-4121)
+    MultiThreadedCalculation:IDispatch*
+    Name:QString(Microsoft Excel)
+    Names:IDispatch*
+    NetworkTemplatesPath:QString()
+    NewWorkbook:IDispatch*
+    ODBCErrors:IDispatch*
+    ODBCTimeout:int(45)
+    OLEDBErrors:IDispatch*
+    OnCalculate:QString(void)
+    OnData:QString(void)
+    OnDoubleClick:QString(void)
+    OnEntry:QString(void)
+    OnSheetActivate:QString(void)
+    OnSheetDeactivate:QString(void)
+    OnWindow:QString(void)
+    OperatingSystem:QString(Windows (32-bit) NT 6.02)
+    OrganizationName:QString()
+    Parent:IDispatch*
+    Path:QString(C:\Program Files\Microsoft Office 15\Root\Office15)
+    PathSeparator:QString(\)
+    PivotTableSelection:bool[false]
+    PreviousSelections:QVariant varies<>
+    PrintCommunication:bool[true]
+    ProductCode:QString({90150000-000F-0000-0000-0000000FF1CE})
+    PromptForSummaryInfo:bool[false]
+    ProtectedViewWindows:IDispatch*
+    QuickAnalysis:IDispatch*
+    Quitting:bool[false]
+    RTD:IDispatch*
+    Ready:bool[true]
+    RecentFiles:IDispatch*
+    RecordRelative:bool[false]
+    ReferenceStyle:XlReferenceStyle(1)
+    RegisteredFunctions:QVariant varies<null>
+    ReplaceFormat:IDispatch*
+    RollZoom:bool[false]
+    Rows:IDispatch*
+    SaveISO8601Dates:bool[true]
+    ScreenUpdating:bool[true]
+    Selection:IDispatch*
+    Sheets:IDispatch*
+    SheetsInNewWorkbook:int(1)
+    ShowChartTipNames:bool[true]
+    ShowChartTipValues:bool[true]
+    ShowDevTools:bool[false]
+    ShowMenuFloaties:bool[true]
+    ShowQuickAnalysis:bool[true]
+    ShowSelectionFloaties:bool[true]
+    ShowStartupDialog:bool[false]
+    ShowToolTips:bool[true]
+    ShowWindowsInTaskbar:bool[true]
+    SmartArtColors:IDispatch*
+    SmartArtLayouts:IDispatch*
+    SmartArtQuickStyles:IDispatch*
+    SmartTagRecognizers:IDispatch*
+    Speech:IDispatch*
+    SpellingOptions:IDispatch*
+    StandardFont:QString(Calibri)
+    StandardFontSize:double
+    StartupPath:QString(C:\Users\Lee\AppData\Roaming\Microsoft\Excel\XLSTART)
+    StatusBar:QVariant varies<false>
+    TemplatesPath:QString(C:\Users\Lee\AppData\Roaming\Microsoft\Templates\)
+    ThisCell:IDispatch*
+    ThisWorkbook:IDispatch*
+    ThousandsSeparator:QString(,)
+    Toolbars:IDispatch*
+    Top:double
+    TransitionMenuKey:QString(/)
+    TransitionMenuKeyAction:int(1)
+    TransitionNavigKeys:bool[false]
+    UILanguage:int(0)
+    UsableHeight:double
+    UsableWidth:double
+    UseClusterConnector:bool[false]
+    UseSystemSeparators:bool[true]
+    UsedObjects:IDispatch*
+    UserControl:bool[false]
+    UserLibraryPath:QString(C:\Users\Lee\AppData\Roaming\Microsoft\AddIns\)
+    UserName:QString(Lee Butler)
+    VBE:IDispatch*
+    Value:QString(Microsoft Excel)
+    Version:QString(15.0)
+    Visible:bool[false]
+    WarnOnFunctionNameConflict:bool[true]
+    Watches:IDispatch*
+    Width:double
+    WindowState:XlWindowState(-4143)
+    Windows:IDispatch*
+    WindowsForPens:bool[false]
+    Workbooks:IDispatch*
+    WorksheetFunction:IDispatch*
+    Worksheets:IDispatch*
+    _Default:QString(Microsoft Excel)
+    control:QString({00024500-0000-0000-c000-000000000046})
+workbooks has 7:
+    objectName:QString(void)
+    Application:IDispatch*
+    Count:int(0)
+    Creator:XlCreator(1480803660)
+    Parent:IDispatch*
+    _NewEnum:IUnknown*
+    control:QString(void)
+workbook has 136:
+    objectName:QString(void)
+    AcceptLabelsInFormulas:bool[false]
+    AccuracyVersion:int(0)
+    ActiveChart:IDispatch*
+    ActiveSheet:IDispatch*
+    ActiveSlicer:IDispatch*
+    Application:IDispatch*
+    Author:QString(Lee Butler)
+    AutoUpdateFrequency:int(0)
+    AutoUpdateSaveChanges:bool[false]
+    BuiltinDocumentProperties:IDispatch*
+    CalculationVersion:int(152511)
+    CaseSensitive:bool[false]
+    ChangeHistoryDuration:int(0)
+    ChartDataPointTrack:bool[true]
+    Charts:IDispatch*
+    CheckCompatibility:bool[false]
+    CodeName:QString()
+    Colors:QVariant varies<>
+    CommandBars:IDispatch*
+    Comments:QString()
+    ConflictResolution:XlSaveConflictResolution(1)
+    Connections:IDispatch*
+    ConnectionsDisabled:bool[false]
+    Container:IDispatch*
+    ContentTypeProperties:IDispatch*
+    CreateBackup:bool[false]
+    Creator:XlCreator(1480803660)
+    CustomDocumentProperties:IDispatch*
+    CustomViews:IDispatch*
+    CustomXMLParts:IDispatch*
+    Date1904:bool[false]
+    DefaultPivotTableStyle:QVariant varies<>
+    DefaultSlicerStyle:QVariant varies<>
+    DefaultTableStyle:QVariant varies<>
+    DefaultTimelineStyle:QVariant varies<>
+    DialogSheets:IDispatch*
+    DisplayDrawingObjects:XlDisplayDrawingObjects(-4104)
+    DisplayInkComments:bool[true]
+    DoNotPromptForConvert:bool[false]
+    DocumentInspectors:IDispatch*
+    DocumentLibraryVersions:IDispatch*
+    EnableAutoRecover:bool[true]
+    EncryptionProvider:QString()
+    EnvelopeVisible:bool[false]
+    Excel4IntlMacroSheets:IDispatch*
+    Excel4MacroSheets:IDispatch*
+    Excel8CompatibilityMode:bool[false]
+    FileFormat:XlFileFormat(51)
+    Final:bool[false]
+    ForceFullCalculation:bool[false]
+    FullName:QString(C:\Users\Lee\Documents\src\Qt\excelReader\Book1.xlsx)
+    FullNameURLEncoded:QString(C:\Users\Lee\Documents\src\Qt\excelReader\Book1.xlsx)
+    HTMLProject:IDispatch*
+    HasMailer:bool[false]
+    HasPassword:bool[false]
+    HasRoutingSlip:bool[false]
+    HasVBProject:bool[false]
+    HighlightChangesOnScreen:bool[false]
+    IconSets:IDispatch*
+    InactiveListBorderVisible:bool[true]
+    IsAddin:bool[false]
+    IsInplace:bool[false]
+    KeepChangeHistory:bool[true]
+    Keywords:QString()
+    ListChangesOnNewSheet:bool[false]
+    Mailer:IDispatch*
+    Model:IDispatch*
+    Modules:IDispatch*
+    MultiUserEditing:bool[false]
+    Name:QString(Book1.xlsx)
+    Names:IDispatch*
+    OnSave:QString(void)
+    OnSheetActivate:QString(void)
+    OnSheetDeactivate:QString(void)
+    Parent:IDispatch*
+    Password:QString(********)
+    PasswordEncryptionAlgorithm:QString()
+    PasswordEncryptionFileProperties:bool[true]
+    PasswordEncryptionKeyLength:int(0)
+    PasswordEncryptionProvider:QString()
+    Path:QString(C:\Users\Lee\Documents\src\Qt\excelReader)
+    Permission:IDispatch*
+    PersonalViewListSettings:bool[true]
+    PersonalViewPrintSettings:bool[true]
+    PivotTables:IDispatch*
+    PrecisionAsDisplayed:bool[false]
+    ProtectStructure:bool[false]
+    ProtectWindows:bool[false]
+    PublishObjects:IDispatch*
+    ReadOnly:bool[true]
+    ReadOnlyRecommended:bool[false]
+    RemovePersonalInformation:bool[false]
+    Research:IDispatch*
+    RevisionNumber:int(0)
+    Routed:bool[false]
+    RoutingSlip:IDispatch*
+    SaveLinkValues:bool[true]
+    Saved:bool[true]
+    ServerPolicy:IDispatch*
+    ServerViewableItems:IDispatch*
+    SharedWorkspace:IDispatch*
+    Sheets:IDispatch*
+    ShowConflictHistory:bool[false]
+    ShowPivotChartActiveFields:bool[false]
+    ShowPivotTableFieldList:bool[true]
+    Signatures:IDispatch*
+    SlicerCaches:IDispatch*
+    SmartDocument:IDispatch*
+    SmartTagOptions:IDispatch*
+    Styles:IDispatch*
+    Subject:QString()
+    Sync:IDispatch*
+    TableStyles:IDispatch*
+    TemplateRemoveExtData:bool[false]
+    Theme:IDispatch*
+    Title:QString()
+    UpdateLinks:XlUpdateLinks(1)
+    UpdateRemoteReferences:bool[true]
+    UseWholeCellCriteria:bool[true]
+    UseWildcards:bool[true]
+    UserControl:bool[false]
+    UserStatus:QVariant varies<null>
+    VBASigned:bool[false]
+    VBProject:IDispatch*
+    WebOptions:IDispatch*
+    Windows:IDispatch*
+    Worksheets:IDispatch*
+    WritePassword:QString(********)
+    WriteReserved:bool[false]
+    WriteReservedBy:QString(Lee Butler)
+    XmlMaps:IDispatch*
+    XmlNamespaces:IDispatch*
+    _CodeName:QString()
+    _ReadOnlyRecommended:bool[false]
+    control:QString(void)
+sheets has 10:
+    objectName:QString(void)
+    Application:IDispatch*
+    Count:int(1)
+    Creator:XlCreator(1480803660)
+    HPageBreaks:IDispatch*
+    Parent:IDispatch*
+    VPageBreaks:IDispatch*
+    Visible:QVariant varies<null>
+    _NewEnum:IUnknown*
+    control:QString(void)
+sheet has 67:
+    objectName:QString(void)
+    Application:IDispatch*
+    AutoFilter:IDispatch*
+    AutoFilterMode:bool[false]
+    Cells:IDispatch*
+    CircularReference:IDispatch*
+    CodeName:QString()
+    Columns:IDispatch*
+    Comments:IDispatch*
+    ConsolidationFunction:XlConsolidationFunction(-4157)
+    ConsolidationOptions:QVariant varies<>
+    ConsolidationSources:QVariant varies<null>
+    Creator:XlCreator(1480803660)
+    CustomProperties:IDispatch*
+    DisplayAutomaticPageBreaks:bool[false]
+    DisplayPageBreaks:bool[false]
+    DisplayRightToLeft:bool[false]
+    EnableAutoFilter:bool[false]
+    EnableCalculation:bool[true]
+    EnableFormatConditionsCalculation:bool[true]
+    EnableOutlining:bool[false]
+    EnablePivotTable:bool[false]
+    EnableSelection:XlEnableSelection(0)
+    FilterMode:bool[false]
+    HPageBreaks:IDispatch*
+    Hyperlinks:IDispatch*
+    Index:int(1)
+    ListObjects:IDispatch*
+    MailEnvelope:IDispatch*
+    Name:QString(Sheet1)
+    Names:IDispatch*
+    Next:IDispatch*
+    OnCalculate:QString(void)
+    OnData:QString(void)
+    OnDoubleClick:QString(void)
+    OnEntry:QString(void)
+    OnSheetActivate:QString(void)
+    OnSheetDeactivate:QString(void)
+    Outline:IDispatch*
+    PageSetup:IDispatch*
+    Parent:IDispatch*
+    Previous:IDispatch*
+    PrintedCommentPages:int(0)
+    ProtectContents:bool[false]
+    ProtectDrawingObjects:bool[false]
+    ProtectScenarios:bool[false]
+    Protection:IDispatch*
+    ProtectionMode:bool[false]
+    QueryTables:IDispatch*
+    Rows:IDispatch*
+    Scripts:IDispatch*
+    ScrollArea:QString()
+    Shapes:IDispatch*
+    SmartTags:IDispatch*
+    Sort:IDispatch*
+    StandardHeight:double
+    StandardWidth:double
+    Tab:IDispatch*
+    TransitionExpEval:bool[false]
+    TransitionFormEntry:bool[false]
+    Type:XlSheetType(-4167)
+    UsedRange:IDispatch*
+    VPageBreaks:IDispatch*
+    Visible:XlSheetVisibility(-1)
+    _CodeName:QString()
+    _DisplayRightToLeft:int(0)
+    control:QString(void)
+usedrange has 97:
+    objectName:QString(void)
+    AddIndent:QVariant varies<false>
+    AllowEdit:bool[true]
+    Application:IDispatch*
+    Areas:IDispatch*
+    Borders:IDispatch*
+    Cells:IDispatch*
+    Characters:IDispatch*
+    Column:int(2)
+    ColumnWidth:QVariant varies<null>
+    Columns:IDispatch*
+    Comment:IDispatch*
+    Count:int(12)
+    CountLarge:QVariant varies<12>
+    Creator:XlCreator(1480803660)
+    CurrentArray:IDispatch*
+    CurrentRegion:IDispatch*
+    Dependents:IDispatch*
+    DirectDependents:IDispatch*
+    DirectPrecedents:IDispatch*
+    DisplayFormat:IDispatch*
+    EntireColumn:IDispatch*
+    EntireRow:IDispatch*
+    Errors:IDispatch*
+    Font:IDispatch*
+    FormatConditions:IDispatch*
+    Formula:QVariant varies<>
+    FormulaArray:QVariant varies<null>
+    FormulaHidden:QVariant varies<false>
+    FormulaLabel:XlFormulaLabel(0)
+    FormulaLocal:QVariant varies<>
+    FormulaR1C1:QVariant varies<>
+    FormulaR1C1Local:QVariant varies<>
+    HasArray:QVariant varies<false>
+    HasFormula:QVariant varies<false>
+    Height:QVariant varies<90>
+    Hidden:QVariant varies<null>
+    HorizontalAlignment:QVariant varies<null>
+    Hyperlinks:IDispatch*
+    ID:QString(void)
+    IndentLevel:QVariant varies<0>
+    Interior:IDispatch*
+    Left:QVariant varies<48>
+    ListHeaderRows:int(1)
+    ListObject:IDispatch*
+    LocationInTable:XlLocationInTable(0)
+    Locked:QVariant varies<true>
+    MDX:QString(void)
+    MergeArea:IDispatch*
+    MergeCells:QVariant varies<false>
+    Name:QVariant varies<null>
+    Next:IDispatch*
+    NumberFormat:QVariant varies<null>
+    NumberFormatLocal:QVariant varies<null>
+    Offset:IDispatch*
+    Orientation:QVariant varies<-4128>
+    OutlineLevel:QVariant varies<null>
+    PageBreak:int(0)
+    Parent:IDispatch*
+    Phonetic:IDispatch*
+    Phonetics:IDispatch*
+    PivotCell:IDispatch*
+    PivotField:IDispatch*
+    PivotItem:IDispatch*
+    PivotTable:IDispatch*
+    Precedents:IDispatch*
+    PrefixCharacter:QVariant varies<>
+    Previous:IDispatch*
+    QueryTable:IDispatch*
+    ReadingOrder:int(-5002)
+    Resize:IDispatch*
+    Row:int(1)
+    RowHeight:QVariant varies<15>
+    Rows:IDispatch*
+    ServerActions:IDispatch*
+    ShowDetail:QVariant varies<null>
+    ShrinkToFit:QVariant varies<false>
+    SmartTags:IDispatch*
+    SoundNote:IDispatch*
+    SparklineGroups:IDispatch*
+    Style:QVariant varies<>
+    Summary:QVariant varies<null>
+    Text:QVariant varies<null>
+    Top:QVariant varies<0>
+    UseStandardHeight:QVariant varies<true>
+    UseStandardWidth:QVariant varies<null>
+    Validation:IDispatch*
+    Value:QVariant varies<>
+    Value2:QVariant varies<>
+    VerticalAlignment:QVariant varies<-4107>
+    Width:QVariant varies<136.5>
+    Worksheet:IDispatch*
+    WrapText:QVariant varies<false>
+    XPath:IDispatch*
+    _Default:QVariant varies<>
+    _NewEnum:IUnknown*
+    control:QString(void)
+rows has 97:
+    objectName:QString(void)
+    AddIndent:QVariant varies<false>
+    AllowEdit:bool[true]
+    Application:IDispatch*
+    Areas:IDispatch*
+    Borders:IDispatch*
+    Cells:IDispatch*
+    Characters:IDispatch*
+    Column:int(2)
+    ColumnWidth:QVariant varies<null>
+    Columns:IDispatch*
+    Comment:IDispatch*
+    Count:int(6)
+    CountLarge:QVariant varies<6>
+    Creator:XlCreator(1480803660)
+    CurrentArray:IDispatch*
+    CurrentRegion:IDispatch*
+    Dependents:IDispatch*
+    DirectDependents:IDispatch*
+    DirectPrecedents:IDispatch*
+    DisplayFormat:IDispatch*
+    EntireColumn:IDispatch*
+    EntireRow:IDispatch*
+    Errors:IDispatch*
+    Font:IDispatch*
+    FormatConditions:IDispatch*
+    Formula:QVariant varies<>
+    FormulaArray:QVariant varies<null>
+    FormulaHidden:QVariant varies<false>
+    FormulaLabel:XlFormulaLabel(0)
+    FormulaLocal:QVariant varies<>
+    FormulaR1C1:QVariant varies<>
+    FormulaR1C1Local:QVariant varies<>
+    HasArray:QVariant varies<false>
+    HasFormula:QVariant varies<false>
+    Height:QVariant varies<90>
+    Hidden:QVariant varies<false>
+    HorizontalAlignment:QVariant varies<null>
+    Hyperlinks:IDispatch*
+    ID:QString(void)
+    IndentLevel:QVariant varies<0>
+    Interior:IDispatch*
+    Left:QVariant varies<48>
+    ListHeaderRows:int(1)
+    ListObject:IDispatch*
+    LocationInTable:XlLocationInTable(0)
+    Locked:QVariant varies<true>
+    MDX:QString(void)
+    MergeArea:IDispatch*
+    MergeCells:QVariant varies<false>
+    Name:QVariant varies<null>
+    Next:IDispatch*
+    NumberFormat:QVariant varies<null>
+    NumberFormatLocal:QVariant varies<null>
+    Offset:IDispatch*
+    Orientation:QVariant varies<-4128>
+    OutlineLevel:QVariant varies<1>
+    PageBreak:int(-4142)
+    Parent:IDispatch*
+    Phonetic:IDispatch*
+    Phonetics:IDispatch*
+    PivotCell:IDispatch*
+    PivotField:IDispatch*
+    PivotItem:IDispatch*
+    PivotTable:IDispatch*
+    Precedents:IDispatch*
+    PrefixCharacter:QVariant varies<>
+    Previous:IDispatch*
+    QueryTable:IDispatch*
+    ReadingOrder:int(-5002)
+    Resize:IDispatch*
+    Row:int(1)
+    RowHeight:QVariant varies<15>
+    Rows:IDispatch*
+    ServerActions:IDispatch*
+    ShowDetail:QVariant varies<null>
+    ShrinkToFit:QVariant varies<false>
+    SmartTags:IDispatch*
+    SoundNote:IDispatch*
+    SparklineGroups:IDispatch*
+    Style:QVariant varies<>
+    Summary:QVariant varies<false>
+    Text:QVariant varies<null>
+    Top:QVariant varies<0>
+    UseStandardHeight:QVariant varies<true>
+    UseStandardWidth:QVariant varies<null>
+    Validation:IDispatch*
+    Value:QVariant varies<>
+    Value2:QVariant varies<>
+    VerticalAlignment:QVariant varies<-4107>
+    Width:QVariant varies<136.5>
+    Worksheet:IDispatch*
+    WrapText:QVariant varies<false>
+    XPath:IDispatch*
+    _Default:QVariant varies<>
+    _NewEnum:IUnknown*
+    control:QString(void)
+columns has 97:
+    objectName:QString(void)
+    AddIndent:QVariant varies<false>
+    AllowEdit:bool[true]
+    Application:IDispatch*
+    Areas:IDispatch*
+    Borders:IDispatch*
+    Cells:IDispatch*
+    Characters:IDispatch*
+    Column:int(2)
+    ColumnWidth:QVariant varies<null>
+    Columns:IDispatch*
+    Comment:IDispatch*
+    Count:int(2)
+    CountLarge:QVariant varies<2>
+    Creator:XlCreator(1480803660)
+    CurrentArray:IDispatch*
+    CurrentRegion:IDispatch*
+    Dependents:IDispatch*
+    DirectDependents:IDispatch*
+    DirectPrecedents:IDispatch*
+    DisplayFormat:IDispatch*
+    EntireColumn:IDispatch*
+    EntireRow:IDispatch*
+    Errors:IDispatch*
+    Font:IDispatch*
+    FormatConditions:IDispatch*
+    Formula:QVariant varies<>
+    FormulaArray:QVariant varies<null>
+    FormulaHidden:QVariant varies<false>
+    FormulaLabel:XlFormulaLabel(0)
+    FormulaLocal:QVariant varies<>
+    FormulaR1C1:QVariant varies<>
+    FormulaR1C1Local:QVariant varies<>
+    HasArray:QVariant varies<false>
+    HasFormula:QVariant varies<false>
+    Height:QVariant varies<90>
+    Hidden:QVariant varies<false>
+    HorizontalAlignment:QVariant varies<null>
+    Hyperlinks:IDispatch*
+    ID:QString(void)
+    IndentLevel:QVariant varies<0>
+    Interior:IDispatch*
+    Left:QVariant varies<48>
+    ListHeaderRows:int(1)
+    ListObject:IDispatch*
+    LocationInTable:XlLocationInTable(0)
+    Locked:QVariant varies<true>
+    MDX:QString(void)
+    MergeArea:IDispatch*
+    MergeCells:QVariant varies<false>
+    Name:QVariant varies<null>
+    Next:IDispatch*
+    NumberFormat:QVariant varies<null>
+    NumberFormatLocal:QVariant varies<null>
+    Offset:IDispatch*
+    Orientation:QVariant varies<-4128>
+    OutlineLevel:QVariant varies<1>
+    PageBreak:int(-4142)
+    Parent:IDispatch*
+    Phonetic:IDispatch*
+    Phonetics:IDispatch*
+    PivotCell:IDispatch*
+    PivotField:IDispatch*
+    PivotItem:IDispatch*
+    PivotTable:IDispatch*
+    Precedents:IDispatch*
+    PrefixCharacter:QVariant varies<>
+    Previous:IDispatch*
+    QueryTable:IDispatch*
+    ReadingOrder:int(-5002)
+    Resize:IDispatch*
+    Row:int(1)
+    RowHeight:QVariant varies<15>
+    Rows:IDispatch*
+    ServerActions:IDispatch*
+    ShowDetail:QVariant varies<null>
+    ShrinkToFit:QVariant varies<false>
+    SmartTags:IDispatch*
+    SoundNote:IDispatch*
+    SparklineGroups:IDispatch*
+    Style:QVariant varies<>
+    Summary:QVariant varies<false>
+    Text:QVariant varies<null>
+    Top:QVariant varies<0>
+    UseStandardHeight:QVariant varies<true>
+    UseStandardWidth:QVariant varies<null>
+    Validation:IDispatch*
+    Value:QVariant varies<>
+    Value2:QVariant varies<>
+    VerticalAlignment:QVariant varies<-4107>
+    Width:QVariant varies<136.5>
+    Worksheet:IDispatch*
+    WrapText:QVariant varies<false>
+    XPath:IDispatch*
+    _Default:QVariant varies<>
+    _NewEnum:IUnknown*
+    control:QString(void)
+cell has 97:
+    objectName:QString(void)
+    AddIndent:QVariant varies<false>
+    AllowEdit:bool[true]
+    Application:IDispatch*
+    Areas:IDispatch*
+    Borders:IDispatch*
+    Cells:IDispatch*
+    Characters:IDispatch*
+    Column:int(2)
+    ColumnWidth:QVariant varies<16.140000000000001>
+    Columns:IDispatch*
+    Comment:IDispatch*
+    Count:int(1)
+    CountLarge:QVariant varies<1>
+    Creator:XlCreator(1480803660)
+    CurrentArray:IDispatch*
+    CurrentRegion:IDispatch*
+    Dependents:IDispatch*
+    DirectDependents:IDispatch*
+    DirectPrecedents:IDispatch*
+    DisplayFormat:IDispatch*
+    EntireColumn:IDispatch*
+    EntireRow:IDispatch*
+    Errors:IDispatch*
+    Font:IDispatch*
+    FormatConditions:IDispatch*
+    Formula:QVariant varies<Fred>
+    FormulaArray:QVariant varies<Fred>
+    FormulaHidden:QVariant varies<false>
+    FormulaLabel:XlFormulaLabel(0)
+    FormulaLocal:QVariant varies<Fred>
+    FormulaR1C1:QVariant varies<Fred>
+    FormulaR1C1Local:QVariant varies<Fred>
+    HasArray:QVariant varies<false>
+    HasFormula:QVariant varies<false>
+    Height:QVariant varies<15>
+    Hidden:QVariant varies<null>
+    HorizontalAlignment:QVariant varies<1>
+    Hyperlinks:IDispatch*
+    ID:QString(void)
+    IndentLevel:QVariant varies<0>
+    Interior:IDispatch*
+    Left:QVariant varies<48>
+    ListHeaderRows:int(0)
+    ListObject:IDispatch*
+    LocationInTable:XlLocationInTable(0)
+    Locked:QVariant varies<true>
+    MDX:QString()
+    MergeArea:IDispatch*
+    MergeCells:QVariant varies<false>
+    Name:QVariant varies<null>
+    Next:IDispatch*
+    NumberFormat:QVariant varies<General>
+    NumberFormatLocal:QVariant varies<General>
+    Offset:IDispatch*
+    Orientation:QVariant varies<-4128>
+    OutlineLevel:QVariant varies<null>
+    PageBreak:int(0)
+    Parent:IDispatch*
+    Phonetic:IDispatch*
+    Phonetics:IDispatch*
+    PivotCell:IDispatch*
+    PivotField:IDispatch*
+    PivotItem:IDispatch*
+    PivotTable:IDispatch*
+    Precedents:IDispatch*
+    PrefixCharacter:QVariant varies<>
+    Previous:IDispatch*
+    QueryTable:IDispatch*
+    ReadingOrder:int(-5002)
+    Resize:IDispatch*
+    Row:int(1)
+    RowHeight:QVariant varies<15>
+    Rows:IDispatch*
+    ServerActions:IDispatch*
+    ShowDetail:QVariant varies<null>
+    ShrinkToFit:QVariant varies<false>
+    SmartTags:IDispatch*
+    SoundNote:IDispatch*
+    SparklineGroups:IDispatch*
+    Style:QVariant varies<>
+    Summary:QVariant varies<null>
+    Text:QVariant varies<Fred>
+    Top:QVariant varies<0>
+    UseStandardHeight:QVariant varies<true>
+    UseStandardWidth:QVariant varies<false>
+    Validation:IDispatch*
+    Value:QVariant varies<Fred>
+    Value2:QVariant varies<Fred>
+    VerticalAlignment:QVariant varies<-4107>
+    Width:QVariant varies<88.5>
+    Worksheet:IDispatch*
+    WrapText:QVariant varies<false>
+    XPath:IDispatch*
+    _Default:QVariant varies<Fred>
+    _NewEnum:IUnknown*
+    control:QString(void)
